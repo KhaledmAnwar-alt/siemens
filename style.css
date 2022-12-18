@@ -5,7 +5,7 @@ font-family: 'Tajawal';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url("https://maintenancestar.com/assets/fonts/tajawal/tajawal_normal_400_1") format('woff2');
+src: url("https:// assets/fonts/tajawal/tajawal_normal_400_1") format('woff2');
 unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
@@ -13,7 +13,7 @@ font-family: 'Tajawal';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url("https://maintenancestar.com/assets/fonts/tajawal/tajawal_normal_400_2") format('woff2');
+src: url("https:// assets/fonts/tajawal/tajawal_normal_400_2") format('woff2');
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
@@ -21,7 +21,7 @@ font-family: 'Tajawal';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
-src: url("https://maintenancestar.com/assets/fonts/tajawal/tajawal_normal_700_1") format('woff2');
+src: url("https:// assets/fonts/tajawal/tajawal_normal_700_1") format('woff2');
 unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
@@ -29,7 +29,7 @@ font-family: 'Tajawal';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
-src: url("https://maintenancestar.com/assets/fonts/tajawal/tajawal_normal_700_2") format('woff2');
+src: url("https:// assets/fonts/tajawal/tajawal_normal_700_2") format('woff2');
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 } */
 
@@ -79,7 +79,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
         font-weight: 400;
         line-height: 1.5;
         color: #212529;
-        background-color: rgb(141, 140, 140);
+        background-color: rgb(148, 148, 148);
         -webkit-text-size-adjust: 100%;
         -webkit-tap-highlight-color: transparent
     }
@@ -10601,8 +10601,8 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 
     @font-face {
         font-family: 'FontAwesome';
-        src: url('https://maintenancestar.com/assets/fonts/fontawesome-webfont.eot?v=4.7.0');
-        src: url('https://maintenancestar.com/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://maintenancestar.com/assets/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://maintenancestar.com/assets/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://maintenancestar.com/assets/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://maintenancestar.com/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+        src: url('https:// assets/fonts/fontawesome-webfont.eot?v=4.7.0');
+        src: url('https:// assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https:// assets/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https:// assets/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https:// assets/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https:// assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
         font-weight: normal;
         font-style: normal
     }
@@ -13713,22 +13713,9 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
         -webkit-transform: translate3d(0, 0, 0)
     }
 
-
-
     .section-title h2::before, .section-title h1::before, a.lightbox-gallery::before, .cleaning-slide-preloader-wrap, .mainmenu ul li:hover > a, .mainmenu ul li.active > a, .mainmenu li ul, .shop-cart-checkout a, .homepage-slides .owl-nav div, .project-slides .owl-nav div:hover, .green-btn, .read-more-btn, .choose-reasons i, .team-slides .owl-nav div:hover, .social-media > a:hover, .team-profile > a:hover, .profile-box .social-links a, .select-plan, .date, .tag_widget.tag_list a:hover, .blog-serch-form > button, .social-icos a:hover, .shorting-menu > button:hover, .shorting-menu > button.mixitup-control-active, #back-to-top, .add-to-cart, .product-wrap-btn:hover span, .review-form input.sbmt-btn, .address-area ul li .contact-social li a:hover, .blog-slides .owl-nav div:hover, .comment-form-wrap input.sbmt-btn:hover, .qoute-title-area, .qoute-form-area input[type="submit"], .ColorSwitcher__control, .shop-item-block .shop-single-item .shop-btn:hover, .footer-wid .social-icos li a:hover, .shop-item-block .shop-single-item .shop-btn:hover, .all-section-title h5:before, .header-topbar-section .single-top-head .head-scial-icon li a:hover, .joinsubscribe .single-subscribe2 .subscribe-btn, .home-three-slider.owl-theme .owl-dots .owl-dot.active span, .home-three-slider .owl-theme .owl-dots .owl-dot:hover span, .footer-top .social-link ul li a, .cleaning-btn, .subscribe button {
         background: #2dcfcc;
-        background-image: initial;
-        background-position-x: initial;
-        background-position-y: initial;
-        background-size: initial;
-        background-repeat-x: initial;
-        background-repeat-y: initial;
-        background-attachment: initial;
-        background-origin: initial;
-        background-clip: initial;
-        background-color: blue;
-   }
-   
+    }
 
     .owl-carousel .owl-controls .owl-dot,
     .owl-carousel .owl-controls .owl-nav .owl-next,
@@ -16427,115 +16414,115 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .slide-bg-1 {
-        background-image: url(https://maintenancestar.com/assets/img/slide-bg-1.jpg)
+        background-image: url(https:// assets/img/slide-bg-1.jpg)
     }
 
     .slide-bg-2 {
-        background-image: url(https://maintenancestar.com/assets/img/slide-bg-2.jpg)
+        background-image: url(https:// assets/img/slide-bg-2.jpg)
     }
 
     .slide-bg-3 {
-        background-image: url(https://maintenancestar.com/assets/img/slide-bg-3.jpg)
+        background-image: url(https:// assets/img/slide-bg-3.jpg)
     }
 
     .service-bg-1 {
-        background-image: url(https://maintenancestar.com/assets/img/service-bg-1.jpg)
+        background-image: url(https:// assets/img/service-bg-1.jpg)
     }
 
     .service-bg-2 {
-        background-image: url(https://maintenancestar.com/assets/img/service-bg-2.jpg)
+        background-image: url(https:// assets/img/service-bg-2.jpg)
     }
 
     .service-bg-3 {
-        background-image: url(https://maintenancestar.com/assets/img/service-bg-3.jpg)
+        background-image: url(https:// assets/img/service-bg-3.jpg)
     }
 
     .service-bg-4 {
-        background-image: url(https://maintenancestar.com/assets/img/service-bg-4.jpg)
+        background-image: url(https:// assets/img/service-bg-4.jpg)
     }
 
     .service-bg-5 {
-        background-image: url(https://maintenancestar.com/assets/img/service-bg-5.jpg)
+        background-image: url(https:// assets/img/service-bg-5.jpg)
     }
 
     .service-bg-6 {
-        background-image: url(https://maintenancestar.com/assets/img/service-bg-6.jpg)
+        background-image: url(https:// assets/img/service-bg-6.jpg)
     }
 
     .about-bg-1 {
-        background-image: url(https://maintenancestar.com/assets/img/about-bg-1.jpg)
+        background-image: url(https:// assets/img/about-bg-1.jpg)
     }
 
     .about-bg-2 {
-        background-image: url(https://maintenancestar.com/assets/img/about-bg-2.jpg)
+        background-image: url(https:// assets/img/about-bg-2.jpg)
     }
 
     .about-bg-3 {
-        background-image: url(https://maintenancestar.com/assets/img/about-bg-3.jpg)
+        background-image: url(https:// assets/img/about-bg-3.jpg)
     }
 
     .about-bg-4 {
-        background-image: url(https://maintenancestar.com/assets/img/about-bg-4.jpg)
+        background-image: url(https:// assets/img/about-bg-4.jpg)
     }
 
     .promo-video-bg {
-        background-image: url(https://maintenancestar.com/assets/img/promo-video-bg.jpg)
+        background-image: url(https:// assets/img/promo-video-bg.jpg)
     }
 
     .shop-item-bg-1 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-1.png)
+        background-image: url(https:// assets/img/shop-item-bg-1.png)
     }
 
     .shop-item-bg-2 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-2.png)
+        background-image: url(https:// assets/img/shop-item-bg-2.png)
     }
 
     .shop-item-bg-3 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-3.png)
+        background-image: url(https:// assets/img/shop-item-bg-3.png)
     }
 
     .shop-item-bg-4 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-4.png)
+        background-image: url(https:// assets/img/shop-item-bg-4.png)
     }
 
     .shop-item-bg-5 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-5.png)
+        background-image: url(https:// assets/img/shop-item-bg-5.png)
     }
 
     .shop-item-bg-6 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-6.png)
+        background-image: url(https:// assets/img/shop-item-bg-6.png)
     }
 
     .shop-item-bg-7 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-7.png)
+        background-image: url(https:// assets/img/shop-item-bg-7.png)
     }
 
     .shop-item-bg-8 {
-        background-image: url(https://maintenancestar.com/assets/img/shop-item-bg-8.png)
+        background-image: url(https:// assets/img/shop-item-bg-8.png)
     }
 
     .blog-img-1 {
-        background-image: url(https://maintenancestar.com/assets/img/blog-img-1.jpg)
+        background-image: url(https:// assets/img/blog-img-1.jpg)
     }
 
     .blog-img-2 {
-        background-image: url(https://maintenancestar.com/assets/img/blog-img-2.jpg)
+        background-image: url(https:// assets/img/blog-img-2.jpg)
     }
 
     .blog-img-3 {
-        background-image: url(https://maintenancestar.com/assets/img/blog-img-3.jpg)
+        background-image: url(https:// assets/img/blog-img-3.jpg)
     }
 
     .blog-img-4 {
-        background-image: url(https://maintenancestar.com/assets/img/blog-img-4.jpg)
+        background-image: url(https:// assets/img/blog-img-4.jpg)
     }
 
     .blog-img-5 {
-        background-image: url(https://maintenancestar.com/assets/img/blog-img-5.jpg)
+        background-image: url(https:// assets/img/blog-img-5.jpg)
     }
 
     .cleaning-mini-banner {
-        background-image: url(https://maintenancestar.com/assets/img/bread-cumb-bg.jpg)
+        background-image: url(https:// assets/img/bread-cumb-bg.jpg)
     }
 
     .preloader-wrap {
@@ -17034,7 +17021,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .home-two {
-        background-image: url(https://maintenancestar.com/assets/img/slide-bg-4.jpg);
+        background-image: url(https:// assets/img/slide-bg-4.jpg);
         position: relative;
         height: 650px
     }
@@ -17627,7 +17614,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .achivment-section {
-        background-image: url(https://maintenancestar.com/assets/photos/achivment.webp);
+        background-image: url(https:// assets/photos/achivment.webp);
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
@@ -18158,7 +18145,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .testimonial {
-        background: url(https://maintenancestar.com/assets/img/testimonial-bg.jpg)
+        background: url(https:// assets/img/testimonial-bg.jpg)
     }
 
     .testimonial-slides .owl-nav {
@@ -18388,7 +18375,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .subscription {
-        background: url(https://maintenancestar.com/assets/photos/subscription.webp);
+        background: url(https:// assets/photos/subscription.webp);
         background-size: cover;
         background-position: center center;
         position: relative;
@@ -19627,7 +19614,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .footer-top-area::before {
-        background-image: url(https://maintenancestar.com/assets/img/footer_bg.png);
+        background-image: url(https:// assets/img/footer_bg.png);
         content: "";
         height: 30px;
         left: 0;
@@ -20301,7 +20288,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .about-section .all-ab-wrap-img {
-        background-image: url(https://maintenancestar.com/assets/img/about-img/about-bg.jpg);
+        background-image: url(https:// assets/img/about-img/about-bg.jpg);
         background-size: cover;
         background-position: center right;
         background-repeat: no-repeat;
@@ -20321,7 +20308,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 
     .work-section {
         background-color: #fafafa;
-        background-image: url(https://maintenancestar.com/assets/img/work-img/work-bg.png);
+        background-image: url(https:// assets/img/work-img/work-bg.png);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center
@@ -20336,7 +20323,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     .work-section .single-work:before {
         content: "";
         position: absolute;
-        background-image: url(https://maintenancestar.com/assets/img/work-img/uptodown.png);
+        background-image: url(https:// assets/img/work-img/uptodown.png);
         background-repeat: no-repeat;
         background-size: contain;
         width: 120px;
@@ -20670,7 +20657,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .testimonial-sections {
-        background-image: url(https://maintenancestar.com/assets/img/testimonial/testimonial.png);
+        background-image: url(https:// assets/img/testimonial/testimonial.png);
         background-size: cover;
         background-repeat: no-repeat;
         background-color: #f6f6f6
@@ -20982,7 +20969,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .contact-section {
-        background-image: url(https://maintenancestar.com/assets/img/contact-image/contact-bg.jpg);
+        background-image: url(https:// assets/img/contact-image/contact-bg.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -21275,7 +21262,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .footer-top {
-        background-image: url(https://maintenancestar.com/assets/img/footer/footer-bg.png);
+        background-image: url(https:// assets/img/footer/footer-bg.png);
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -21613,11 +21600,11 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .home-four-slider .slider-four-item-wrap.item-one {
-        background-image: url(https://maintenancestar.com/assets/img/slider-bg-6.jpg)
+        background-image: url(https:// assets/img/slider-bg-6.jpg)
     }
 
     .home-four-slider .slider-four-item-wrap .item-two {
-        background-image: url(https://maintenancestar.com/assets/img/slider-bg-7.jpeg)
+        background-image: url(https:// assets/img/slider-bg-7.jpeg)
     }
 
     .home-four-slider .slider-four-item-wrap .slider4-item {
@@ -22051,7 +22038,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .video-section {
-        background-image: url(https://maintenancestar.com/assets/img/clean-messege/clean-messege.jpg);
+        background-image: url(https:// assets/img/clean-messege/clean-messege.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -22264,7 +22251,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .customer-testimonials {
-        background-image: url(https://maintenancestar.com/assets/img/testimonial/test-bg.jpg);
+        background-image: url(https:// assets/img/testimonial/test-bg.jpg);
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -22817,7 +22804,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .car-washing-slider .single-cw-slider.cw-item-one {
-        background-image: url(https://maintenancestar.com/assets/img/car-washing/car-slider.jpg)
+        background-image: url(https:// assets/img/car-washing/car-slider.jpg)
     }
 
     .car-washing-slider .single-cw-slider::before {
@@ -22969,7 +22956,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .cw-about-main-section .cw-main-ab-img {
-        background-image: url(https://maintenancestar.com/assets/img/car-washing/aboutimg.jpg);
+        background-image: url(https:// assets/img/car-washing/aboutimg.jpg);
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -23220,7 +23207,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .cw-testimonials-section .testimonials-bg {
-        background-image: url(https://maintenancestar.com/assets/img/car-washing/testimonials-bg.jpg);
+        background-image: url(https:// assets/img/car-washing/testimonials-bg.jpg);
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -23483,7 +23470,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
     }
 
     .cw-footer-top {
-        background-image: url(https://maintenancestar.com/assets/img/car-washing/footer-bg.jpg);
+        background-image: url(https:// assets/img/car-washing/footer-bg.jpg);
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
